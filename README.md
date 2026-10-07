@@ -1,6 +1,6 @@
 # CodeAlpha Task 4 - TripGo UI/UX Design
 
-[![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-blue?logo=figma)](https://your-figma-link-here)
+[![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-blue?logo=figma)](https://www.figma.com/proto/VU1flCRUZJNQYIqkDhAobG/CodeAlpha-Task-4-%E2%80%94-TripGo?node-id=0-1&t=JSBbh4VGG44mqFIY-1)
 [![CodeAlpha Internship](https://img.shields.io/badge/CodeAlpha-Task%204-green)](https://www.linkedin.com/in/yasir-rasheed-736392243/?isSelfProfile=true)
 
 **TripGo** ("Travel smarter. Explore further.") is a modern, intuitive mobile travel booking app concept designed to streamline destination discovery, hotel selection, and booking management into a seamless user experience.
