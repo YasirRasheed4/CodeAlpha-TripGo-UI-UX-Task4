@@ -40,4 +40,4 @@ The app prototype features an end-to-end booking flow:
 ## 📬 Contact & Acknowledgments
 
 - **Designer:** Yasir Rasheed
-- **Internship:** [CodeAlpha](https://www.linkedin.com/company/codealpha/)
+- **Internship:** [Linkedin](https://www.linkedin.com/in/yasir-rasheed-736392243/?isSelfProfile=true)
